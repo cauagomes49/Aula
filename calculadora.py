@@ -25,4 +25,4 @@ print('subtração: ', subtracao(n,m))
 print('multiplicação: ', multiplicacao(n,m))
 
 print('divisão:', divisao(n,m))
-print('o numero ', n, 'é par:', is_par,(n))
+print('o numero ', n, 'é par:', is_par(n))
